@@ -1,0 +1,7 @@
+sims/*
+team_comps/*
+planners/*
+farming_reqs/*
+misc/*
+*.xlsx
+*.js
