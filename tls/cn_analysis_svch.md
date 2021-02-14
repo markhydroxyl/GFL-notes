@@ -6,7 +6,7 @@ TL notes:
 - the original author and the simulator use phone numpad convention for tile formations; this translation uses keyboard numpad convention for tile formations.
 
 # Overview
-Rating: General Use - A+ ~ S, dependent on multiple factors
+Rating: General Use - **A+ ~ S**, dependent on multiple factors
 
 How to use: conventional general-use offensive RF
 
@@ -27,7 +27,7 @@ Note that despite bypassing HP shields, the fixed damage is still affected by th
 ![A gif showing SVCh's fixed damage bypassing Orthus shields but only dealing 1 damage.](https://i0.hdslb.com/bfs/article/57d88687b9686fbaeea2bc2860d6aa1fd0481378.gif "SVCh is not a viable Orthus killer.")
 
 # DPS Performance\*
-\* Each attack has $\pm$ 15% damage variance, the results below are averaged over 100 simulations. Excluding situations with critical armor values or super high evasion, damage variance does not affect the conclusions below.
+\* Each attack has ±15% damage variance. The results below are averaged over 100 simulations. Excluding situations with critical armor values or super high evasion, damage variance does not affect the conclusions below.
 
 For conventional battles using this conventional formation, SVCh's DPS output will vary significantly under different enemy formations and stats:
 
