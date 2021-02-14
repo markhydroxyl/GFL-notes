@@ -64,6 +64,7 @@ In summary, SVCh is at the edge of T0 RF performance, and the following conditio
 
 # Team Formation Recommendations
 It is recommended to pair her with generalist FP RFs, with SVCh on position 1:
+
 ![An image showing an example formation. Lee-Enfield on 7, Five-seveN on 4, SVCh on 1, Px4 Storm on 8, Calico MOD3 on 5.](https://i0.hdslb.com/bfs/article/7c999573d9cc9d39a2e1b8c86ab6b930dc65c923.png@766w_768h.webp)
 
 # Similar Dolls
@@ -74,6 +75,8 @@ SVCh. Tags are "DPS", "backline", "pos 1", "FP self-buffer", "armor piercing", "
 Lower ranked: G28. Tags are "DPS", "backline", "FP self-buffer", "armor piercing".
 
 Similar ranking: Lee-Enfield. Tags are "DPS", "backline", "FP self-buffer", "armor piercing".
+
+![An image depicting the above description.](https://i0.hdslb.com/bfs/article/d58e0c57c93674c404187e62d160c00df9f86f88.png@1320w_872h.webp)
 
 # Summary
 **Do**: use against hordes, pile RoF buffs, abuse weak mobs
