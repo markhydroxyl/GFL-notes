@@ -1,5 +1,6 @@
 # CN Dalao Analysis of SVCh
 Original source: https://www.bilibili.com/read/cv9421903
+
 Translated by xVarz#8404, please contact with questions or comments.
 
 TL notes:
@@ -25,6 +26,8 @@ Satisfactory, can be raised.
 
 Note that despite bypassing HP shields, the fixed damage is still affected by the Orthus shield state, which reduces all incoming damage to 1.
 ![A gif showing SVCh's fixed damage bypassing Orthus shields but only dealing 1 damage.](https://i0.hdslb.com/bfs/article/57d88687b9686fbaeea2bc2860d6aa1fd0481378.gif "SVCh is not a viable Orthus killer.")
+
+(the image above might not load in Github's Markdown viewer, try this link directly: https://i0.hdslb.com/bfs/article/57d88687b9686fbaeea2bc2860d6aa1fd0481378.gif)
 
 # DPS Performance\*
 \* Each attack has ±15% damage variance. The results below are averaged over 100 simulations. Excluding situations with critical armor values or super high evasion, damage variance does not affect the conclusions below.
