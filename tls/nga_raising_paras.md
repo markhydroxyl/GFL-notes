@@ -3,6 +3,8 @@ Original source: https://bbs.nga.cn/read.php?tid=25217679&rand=925
 
 Cached version: https://webcache.googleusercontent.com/search?q=cache:yGO3x9Y1LJMJ:https://bbs.nga.cn/read.php%3Ftid%3D25217679+&cd=1&hl=en&ct=clnk
 
+Translated by xVarz#8404, please contact with questions or comments.
+
 # Preface
 I was originally just writing this casually, what preface.
 
