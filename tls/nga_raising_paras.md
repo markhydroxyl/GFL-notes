@@ -44,7 +44,7 @@ This has almost nothing to do with luck. It takes about 200-300 low-cost fairies
 42000 MP, 9000 ammo, 30000 MRE, 24000 parts.
 
 ### Resources for Calibration
-If you calib feed, the estimated cost is about 1800 calibration tickets. If you only want to get a good talent, the estimated cost is about 1200 calibration tickets. You also need to add on 40 of each resource / calib tix (TL: not sure what this actually means?).
+If you calib feed, the estimated cost is about 1800 calibration tickets. If you only want to get a good talent, the estimated cost is about 1200 calibration tickets. Each calibration ticket spent also has an additional cost of 40 resources (TL: this seems to be a mistake, it should be 10/10/10/3.33 resources per calib ticket).
 
 ![](https://img.nga.178.com/attachments/mon_202101/22/-bqqbQiyx-lb5pKaT1kS91-34.jpg.thumb.jpg)
 > calibration black hole warning!
