@@ -1,6 +1,8 @@
 # CN Dalao Analysis of Stechkin MOD
 Original source: https://www.bilibili.com/read/cv4305983
 
+Original author: [命运の乐章](https://space.bilibili.com/8453668)
+
 Translated by xVarz#8404, please contact with questions or comments.
 
 # Overview

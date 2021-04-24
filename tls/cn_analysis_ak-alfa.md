@@ -1,6 +1,8 @@
 # CN Dalao Analysis of AK-Alfa
 Original source: https://www.bilibili.com/read/cv5892763
 
+Original author: [命运の乐章](https://space.bilibili.com/8453668)
+
 Translated by xVarz#8404, please contact with questions or comments.
 
 TL notes:
@@ -25,7 +27,7 @@ Recommendation level: satisfactory, can be raised
 
 Under ideal conditions (i.e. during active against enemies in the same lane), peak DPS self-buff is 98%, average FP self-buff is 61.25% as the battle duration approaches infinity.
 
-# DPS
+# DPS Performance
 **Typical battle conditions** (15 eva, 20s): because the active uptime is 5s with an 8s cooldown, performance in short to medium length battles is inferior to a more conventional Damage Focus T skill (10s uptime, 16s cooldown). In the echelon below, AK-Alfa's performance is **1.18/1.11** Hometes, with and without passive proc, respectively. In fact, if there happens to be no enemies in the same lane during the active proc, performance *may be even worse*.
 
 The echelon: Homete on position 7, Grizzly on position 4, AK-Alfa on position 1, UMP45 Mod on position 5, P22 on position 2. Fairy is 5\* parachute with Damage 2.

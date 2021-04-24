@@ -1,6 +1,8 @@
 # CN Dalao Analysis of SVCh
 Original source: https://www.bilibili.com/read/cv9421903
 
+Original author: [命运の乐章](https://space.bilibili.com/8453668)
+
 Translated by xVarz#8404, please contact with questions or comments.
 
 TL notes:
