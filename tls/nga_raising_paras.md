@@ -160,7 +160,7 @@ You can't even put external hyperlinks, Bilibili seriously sucks
 
 With how few fans I have, nobody would read my Bilibili post anyways, so I still posted on NGA in the end
 
-The main reason was that I originally intended to shitpost over a thousand words, so that when somebody tells me that Origin Fairies are P2W, I can pull up this article and laugh in his face
+The main reason was that I originally intended to shitpost over a thousand words, so that when somebody tells me that Prototype Fairies are P2W, I can pull up this article and laugh in his face
 
 I didn't intend to post this to NGA before Bilibili, if you want to support me then please go to the Bilibili post: [https://www.bilibili.com/read/cv9390942]
 
